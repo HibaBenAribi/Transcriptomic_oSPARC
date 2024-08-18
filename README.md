@@ -1,5 +1,9 @@
 # SPARC Portal transcriptomic data visualization in o²S²PARC
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f764797-4053-45c0-8a2e-baa3eee45b47" alt="sparc" />
+</p>
+
 ## Table of Contents
 - Introduction
 -	Transcriptomic data on SPARC Portal
