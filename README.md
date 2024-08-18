@@ -5,11 +5,12 @@
 </p>
 
 ## Video Presentation
+
 <p align="center">
-  [![Transcriptomic_oSPARC](https://img.youtube.com/vi/YqYZOpdmYho/0.jpg)](https://www.youtube.com/watch?v=YqYZOpdmYho) 
+  <a href="https://www.youtube.com/watch?v=YqYZOpdmYho">
+    <img src="https://img.youtube.com/vi/YqYZOpdmYho/0.jpg" alt="Transcriptomic_oSPARC" width="300" />
+  </a>
 </p>
-
-
 
 
 ## Table of Contents
