@@ -6,8 +6,8 @@
 
 ## Video Presentation
 
+[![Transcriptomic_oSPARC](https://img.youtube.com/vi/YqYZOpdmYho/0.jpg)](https://www.youtube.com/watch?v=YqYZOpdmYho) 
 
-[![Watch the video][https://www.youtube.com/watch?v=YqYZOpdmYho ](https://www.youtube.com/watch?v=YqYZOpdmYho)
 
 
 ## Table of Contents
