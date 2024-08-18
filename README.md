@@ -1,14 +1,14 @@
 # SPARC Portal transcriptomic data visualization in o²S²PARC
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5f764797-4053-45c0-8a2e-baa3eee45b47" alt="sparc" width="800" />
+  <img src="https://github.com/user-attachments/assets/5f764797-4053-45c0-8a2e-baa3eee45b47" alt="sparc" width="300" />
 </p>
 
 ## Video Presentation
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=YqYZOpdmYho">
-    <img src="https://img.youtube.com/vi/YqYZOpdmYho/0.jpg" alt="Transcriptomic_oSPARC" width="300" />
+    <img src="https://img.youtube.com/vi/YqYZOpdmYho/0.jpg" alt="Transcriptomic_oSPARC" width="700" />
   </a>
 </p>
 
